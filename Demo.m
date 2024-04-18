@@ -1,6 +1,6 @@
 %% ================================================================
 % This is the demo code for 
-% A novel minimization framework of tensor tubal rank and its multi-dimensional image completion application
+% A novel L0 minimization framework of tensor tubal rank and its multi-dimensional image completion application
 % Jin-Liang Xiao, Ting-Zhu Huang, Liang-Jian Deng,and Hong-Xia Dou, 
 % Inverse Problems and Imaging
 % Contact email: jinliang_xiao@163.com

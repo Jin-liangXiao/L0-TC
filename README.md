@@ -17,7 +17,7 @@
 **The sparsity of singular values of X is effectively enhanced by the adaptive transformation.**
 
 <div align="center">
-<img src=https://github.com/Jin-liangXiao/Jin-liangXiao.github.io/blob/main/assets/img/IPI_2.png width=60% alt="ipi2"> 
+<img src=https://github.com/Jin-liangXiao/Jin-liangXiao.github.io/blob/main/assets/img/IPI_2.png width=80% alt="ipi2"> 
 </div>
 
 

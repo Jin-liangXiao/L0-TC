@@ -22,6 +22,8 @@
   | **mu_2** | Parameter of the proximal term of adaptive transformation | [1,1e4] |
   | **r** | Parameter of adaptive transformation | [10,n3] |
 
+  Note that n3 is the third dimention of the image.
+
 **Please adjust the above parameters for better results**
  
 # Citation

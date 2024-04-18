@@ -8,13 +8,13 @@
 
 # Main results
 
--**Constraint comparison of different approaches**
+- **Constraint comparison of different approaches**
 
 <div align="center">
 <img src=https://github.com/Jin-liangXiao/Jin-liangXiao.github.io/blob/main/assets/img/IPI_1.png width=60% alt="ipi1"> 
 </div>
 
--**The sparsity of singular values of X is effectively enhanced by the adaptive transformation.**
+- **The sparsity of singular values of X is effectively enhanced by the adaptive transformation.**
 
 <div align="center">
 <img src=https://github.com/Jin-liangXiao/Jin-liangXiao.github.io/blob/main/assets/img/IPI_2.png width=80% alt="ipi2"> 

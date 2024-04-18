@@ -4,9 +4,7 @@
 [Inverse Problems and Imaging](https://www.aimsciences.org/article/doi/10.3934/ipi.2024018)
 
 
-# My Homepage
-
-https://jin-liangxiao.github.io/
+**My Homepage:** https://jin-liangxiao.github.io/
 
 # Main results
 

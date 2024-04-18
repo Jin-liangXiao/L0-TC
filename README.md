@@ -6,8 +6,8 @@
 
 **My Homepage:**  https://jin-liangxiao.github.io/
 
-![l0](https://github.com/Jin-liangXiao/Jin-liangXiao.github.io/blob/main/assets/img/IPI_1.jpg)
-![tasr](https://github.com/Jin-liangXiao/Jin-liangXiao.github.io/blob/main/assets/img/IPI_2.jpg)
+![l0](https://github.com/Jin-liangXiao/Jin-liangXiao.github.io/blob/main/assets/img/IPI_1.png)
+![tasr](https://github.com/Jin-liangXiao/Jin-liangXiao.github.io/blob/main/assets/img/IPI_2.png)
 
 # How to use?
 - Directly run: ``Demo.m`` 

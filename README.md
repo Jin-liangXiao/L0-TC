@@ -4,7 +4,11 @@
 [Inverse Problems and Imaging](https://www.aimsciences.org/article/doi/10.3934/ipi.2024018)
 
 
-**My Homepage:**  https://jin-liangxiao.github.io/
+# My Homepage
+
+https://jin-liangxiao.github.io/
+
+# Main results
 
 **Constraint comparison of different approaches**
 ![l0](https://github.com/Jin-liangXiao/Jin-liangXiao.github.io/blob/main/assets/img/IPI_1.png)
